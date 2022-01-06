@@ -2,7 +2,7 @@
 
 set collateral rate and repay rate in [config.json](./config.json)
 
-use the price data of eth from 2021-10-02 to 2021-12-31
+use the price data of eth from 2021-10-02 to 2022-01-04
 
 ## to run 
 together:
